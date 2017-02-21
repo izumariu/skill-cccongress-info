@@ -1,0 +1,28 @@
+{
+  "name": "skill-cccongress-info",
+  "version": "1.0.0",
+  "description": "Skill for fetching description about the (next) Chaos Communication Congress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexa/skill-cccongress-info.git"
+  },
+  "keywords": [
+    "helloworld",
+    "alexa",
+    "skill",
+    "cccongress"
+  ],
+  "author": "sesshomariu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alexa/skill-cccongress-info/issues"
+  },
+  "homepage": "https://github.com/alexa/skill-cccongress-info#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
